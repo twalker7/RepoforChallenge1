@@ -1,8 +1,14 @@
-# Basic landing page page #
+# Basic landing page page 
 
  ## the purpose of this page is to advertise a business-to-business marketing service ##
 
-### 3 services listed below a jumbotron illustrating a team of consultants at work  ###
+### there is a navigation bar at the top of the page with links to each section/service on the page 
 
-### 3 corresponding benefits of each service are listed  ###
+
+### a jumbotron illustrates a team of consultants at work
+
+### 3 services are listed vertically below the jumbotron
+
+### 3 corresponding benefits of each service are listed vertically to the right of the page 
+
 
